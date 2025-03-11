@@ -134,7 +134,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Author
 
 Muhammad Zakriya  
-[[Your GitHub Profile]](https://github.com/MZakriya)  
+[GitHub Profile](https://github.com/MZakriya)  
 ziky9892gmail.com
 ```
 
